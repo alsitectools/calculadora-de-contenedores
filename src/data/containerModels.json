@@ -1,0 +1,38 @@
+{
+  "nuevo": [
+    {
+      "codigo": "63312",
+      "descripcion": "PORTAPUNTAL 120X80 GALVANIZADO"
+    },
+    {
+      "codigo": "94947",
+      "descripcion": "CONTENEDOR ALSINA 120X80X60"
+    },
+    {
+      "codigo": "83869",
+      "descripcion": "CONTENEDOR MULTIDIR.125X85X73"
+    },
+    {
+      "codigo": "83200",
+      "descripcion": "CONTENEDOR ALSINA C/REJA 1200X800X775"
+    }
+  ],
+  "usado": [
+    {
+      "codigo": "67312",
+      "descripcion": "PORTAPUNTAL 120X80 GALVANIZADO"
+    },
+    {
+      "codigo": "87947",
+      "descripcion": "CONTENEDOR ALSINA 120X80X60"
+    },
+    {
+      "codigo": "87869",
+      "descripcion": "CONTENEDOR MULTIDIR.125X85X73"
+    },
+    {
+      "codigo": "87200",
+      "descripcion": "CONTENEDOR ALSINA C/REJA 1200X800X775"
+    }
+  ]
+}

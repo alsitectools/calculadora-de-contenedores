@@ -1,0 +1,86 @@
+[
+  {
+    "id": 4,
+    "description": "CUBETA D/25",
+    "category": "Cubeta",
+    "icon": "Package",
+    "color": "indigo"
+  },
+  {
+    "id": 5,
+    "description": "PALET 0,74 ALSI",
+    "category": "Palet",
+    "icon": "Layers",
+    "color": "amber"
+  },
+  {
+    "id": 6,
+    "description": "TACOS",
+    "category": "Tacos",
+    "icon": "Box",
+    "color": "emerald"
+  },
+  {
+    "id": 7,
+    "description": "PALET 0,98 ALSI",
+    "category": "Palet",
+    "icon": "Layers",
+    "color": "amber"
+  },
+  {
+    "id": 8,
+    "description": "ESTANTERIA",
+    "category": "Estantería",
+    "icon": "Grid",
+    "color": "purple"
+  },
+  {
+    "id": 9,
+    "description": "CINTA ADHESIVA",
+    "category": "Cinta",
+    "icon": "Tape",
+    "color": "sky"
+  },
+  {
+    "id": 10,
+    "description": "CUBO PLASTICO",
+    "category": "Cubo",
+    "icon": "Bucket",
+    "color": "blue"
+  },
+  {
+    "id": 12,
+    "description": "CONTENEDOR ALSI.",
+    "category": "Contenedor",
+    "icon": "Container",
+    "color": "blue"
+  },
+  {
+    "id": 13,
+    "description": "SACO 30X50 ALSI.",
+    "category": "Saco",
+    "icon": "ShoppingBag",
+    "color": "teal"
+  },
+  {
+    "id": 14,
+    "description": "SACO 40X60 ALSI.",
+    "category": "Saco",
+    "icon": "ShoppingBag",
+    "color": "teal"
+  },
+  {
+    "id": 15,
+    "description": "PALET",
+    "category": "Palet",
+    "icon": "Layers",
+    "color": "amber"
+  },
+  {
+    "id": 18,
+    "description": "PORTAPUNTAL",
+    "category": "Portapuntal",
+    "icon": "Columns",
+    "color": "rose"
+  }
+]
